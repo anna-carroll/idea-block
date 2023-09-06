@@ -2,6 +2,8 @@
 
 IdeaBlock is an NFT contract which implements a single-block open mint for idea NFTs. `mint` is open during the block that the contract is deployed - the Idea Block. Only original ideas can be minted.
  
+This idea is part of [Idea Guy Summer](https://twitter.com/john_c_palmer/status/1697649365299474806?s=20).
+
 ## Submitting Ideas 💡
 to participate in the IdeaBlock open mint, idea guys must
 - have an idea (hard part)
